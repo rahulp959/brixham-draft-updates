@@ -1,10 +1,9 @@
 language: node_js
 node_js: node
-jobs:
-  include:
-  - stage: build
-    script: npm run build
+script:
+  - npm run build
 deploy:
+  skip_cleanup: true
   provider: s3
   access_key_id: AKIAQQ7WJDGBZSG4HENK
   secret_access_key:
