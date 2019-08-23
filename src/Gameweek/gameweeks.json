@@ -97,5 +97,221 @@
                 ]
             }
         ]
+    },
+    "2": {
+        "waivers": [
+            {
+                "manager": "Lawrence Dutton",
+                "playerIn": "Lo Celso",
+                "playerOut": "Mkhitaryan"
+            },
+            {
+                "manager": "Chris Brooks",
+                "playerIn": "Bernard",
+                "playerOut": "Yarmolenko"
+            },
+            {
+                "manager": "Jack O'Connell",
+                "playerIn": "Sarr",
+                "playerOut": "Capoue"
+            },
+            {
+                "manager": "Dominik Lander",
+                "playerIn": "Cancelo",
+                "playerOut": "Christensen"
+            },
+            {
+                "manager": "Calum Trimble",
+                "playerIn": "Buendía",
+                "playerOut": "Vrancic"
+            },
+            {
+                "manager": "Sam Emo",
+                "playerIn": "Adrián",
+                "playerOut": "Foster"
+            },
+            {
+                "manager": "Joe Horwood",
+                "playerIn": "Rodrigo",
+                "playerOut": "Chamberlain"
+            },
+            {
+                "manager": "Darren Brooks",
+                "playerIn": "Rico",
+                "playerOut": "Matip"
+            },
+            {
+                "manager": "Rahul Parkar",
+                "playerIn": "Pieters",
+                "playerOut": "Zouma"
+            },
+            {
+                "manager": "Dan Rea",
+                "playerIn": "Ramsdale",
+                "playerOut": "Gazzaniga"
+            },
+            {
+                "manager": "Harry Davies",
+                "playerIn": "Maupay",
+                "playerOut": "Calvert-Lewin"
+            },
+            {
+                "manager": "Chris Brooks",
+                "playerIn": "Greenwood",
+                "playerOut": "Batshuayi"
+            },
+            {
+                "manager": "Jack O'Connell",
+                "playerIn": "Montoya",
+                "playerOut": "Smalling"
+            },
+            {
+                "manager": "Dominik Lander",
+                "playerIn": "Danjuma",
+                "playerOut": "Keita"
+            },
+            {
+                "manager": "Sam Emo",
+                "playerIn": "Welbeck",
+                "playerOut": "Lukaku"
+            },
+            {
+                "manager": "Joe Horwood",
+                "playerIn": "Tierney",
+                "playerOut": "Schär"
+            },
+            {
+                "manager": "Darren Brooks",
+                "playerIn": "Steve Cook",
+                "playerOut": "Kolasinac"
+            },
+            {
+                "manager": "Dan Rea",
+                "playerIn": "Maitland-Niles",
+                "playerOut": "Bertrand"
+            },
+            {
+                "manager": "Jack O'Connell",
+                "playerIn": "Ward",
+                "playerOut": "Coady"
+            },
+            {
+                "manager": "Sam Emo",
+                "playerIn": "Pereira",
+                "playerOut": "Nelson"
+            },
+            {
+                "manager": "Sam Emo",
+                "playerIn": "Willock",
+                "playerOut": "Sánchez"
+            }
+
+        ],
+        "freeAgents": [
+            {
+                "manager": "Dominik Lander",
+                "playerIn": "Mount",
+                "playerOut": "Danjuma"
+            }
+        ],
+        "trades": [
+            {
+                "offeredBy": "Harry Davies",
+                "offeredTo": "Lawrence Dutton",
+                "offered": [
+                    "Moutinho",
+                    "Calvert-Lewin"
+                ],
+                "requested": [
+                    "McNeil",
+                    "Wood"
+                ]
+            }
+        ]
+    },
+    "3": {
+        "waivers": [
+            {
+                "manager": "Dominik Lander",
+                "playerIn": "Matip",
+                "playerOut": "Delph"
+            },
+            {
+                "manager": "Lawrence Dutton",
+                "playerIn": "Coady",
+                "playerOut": "Lovren"
+            },
+            {
+                "manager": "Lee Brooks",
+                "playerIn": "Lundstram",
+                "playerOut": "David Luiz"
+            },
+            {
+                "manager": "Calum Trimble",
+                "playerIn": "Douglas Luiz",
+                "playerOut": "Buendía"
+            },
+            {
+                "manager": "Chris Brooks",
+                "playerIn": "Foster",
+                "playerOut": "Bravo"
+            },
+            {
+                "manager": "Rahul Parkar",
+                "playerIn": "McGoldrick",
+                "playerOut": "Benteke"
+            },
+            {
+                "manager": "Sam Emo",
+                "playerIn": "Wilson",
+                "playerOut": "Antonio"
+            },
+            {
+                "manager": "Joe Horwood",
+                "playerIn": "Zouma",
+                "playerOut": "Tierney"
+            },
+            {
+                "manager": "Darren Brooks",
+                "playerIn": "Christensen",
+                "playerOut": "Rico"
+            },
+            {
+                "manager": "Dan Rea",
+                "playerIn": "Söyüncü",
+                "playerOut": "Holebas"
+            },
+            {
+                "manager": "Dominik Lander",
+                "playerIn": "Gazzaniga",
+                "playerOut": "Gunn"
+            },
+            {
+                "manager": "Lawrence Dutton",
+                "playerIn": "Sokratis",
+                "playerOut": "Mustafi"
+            },
+            {
+                "manager": "Lee Brooks",
+                "playerIn": "El Mohamady",
+                "playerOut": "Otamendi"
+            },
+            {
+                "manager": "Rahul Parkar",
+                "playerIn": "Cantwell",
+                "playerOut": "Iwobi"
+            },
+            {
+                "manager": "Sam Emo",
+                "playerIn": "Kiko Femenía",
+                "playerOut": "Mendy"
+            }
+        ],
+        "freeAgents": [
+
+        ],
+        "trades": [
+
+        ]
     }
 }
