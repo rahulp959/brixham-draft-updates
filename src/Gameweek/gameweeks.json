@@ -1,0 +1,101 @@
+{
+    "1": {
+        "waivers": [
+            {
+                "manager": "Dominik Lander",
+                "playerIn": "Kean",
+                "playerOut": "Chicharito"
+            },
+            {
+                "manager": "Sam Emo",
+                "playerIn": "Dunk",
+                "playerOut": "Young"
+            },
+            {
+                "manager": "Jack O'Connell",
+                "playerIn": "Trossard",
+                "playerOut": "Jota"
+            },
+            {
+                "manager": "Rahul Parkar",
+                "playerIn": "Iwobi",
+                "playerOut": "Bernard"
+            },
+            {
+                "manager": "Dominik Lander",
+                "playerIn": "Christensen",
+                "playerOut": "Davies"
+            },
+            {
+                "manager": "Jack O'Connell",
+                "playerIn": "Boruc",
+                "playerOut": "Romero"
+            },
+            {
+                "manager": "Dominik Lander",
+                "playerIn": "Keita",
+                "playerOut": "Lallana"
+            }
+        ],
+        "freeAgents": [
+            {
+                "manager": "Rahul Parkar",
+                "playerIn": "Zouma",
+                "playerOut": "Dalot"
+            },
+            {
+                "manager": "Chris Brooks",
+                "playerIn": "Cutrone",
+                "playerOut": "Austin"
+            },
+            {
+                "manager": "Calum Trimble",
+                "playerIn": "McBurnie",
+                "playerOut": "Drmic"
+            },
+            {
+                "manager": "Sam Emo",
+                "playerIn": "Nelson",
+                "playerOut": "Sané"
+            }
+        ],
+        "trades": [
+            {
+                "offeredBy": "Darren Brooks",
+                "offeredTo": "Lawrence Dutton",
+                "offered": [
+                    "Guaita",
+                    "Milivojevic"
+                ],
+                "requested": [
+                    "Henderson",
+                    "Moutinho"
+                ]
+            },
+            {
+                "offeredBy": "Dominik Lander",
+                "offeredTo": "Sam Emo",
+                "offered": [
+                    "Davies",
+                    "David Silva"
+                ],
+                "requested": [
+                    "Shaw",
+                    "Neves"
+                ]
+            },
+            {
+                "offeredBy": "Dominik Lander",
+                "offeredTo": "Jack O'Connell",
+                "offered": [
+                    "Pogba",
+                    "Chicharito"
+                ],
+                "requested": [
+                    "Jota",
+                    "Jiménez"
+                ]
+            }
+        ]
+    }
+}
