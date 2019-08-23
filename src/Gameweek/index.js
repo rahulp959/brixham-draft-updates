@@ -5,8 +5,6 @@ import "./index.css";
 export default ({match}) => {
     const { params: { id }} = match
     const gameweek = gameweeks[id];
-    console.log(id)
-    console.log(gameweeks)
     return (
         <article>
             <section>
